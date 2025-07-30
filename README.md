@@ -1,0 +1,2 @@
+# InvestCalculatorPython
+InvestCalculator with inflation
